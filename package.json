@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "esbuild": "^0.14.39",
+    "parcel": "^2.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
